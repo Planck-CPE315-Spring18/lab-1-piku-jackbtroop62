@@ -4,6 +4,6 @@
 * Jack Buckon
 * Last Updated 4/6/18
 * Complete
-##Instructions
+## Instructions
   * `gcc -o piku piku.s`
   * `./piku`
